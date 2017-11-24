@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [KNoT-Gateway Mini Starter Board.PrjPCB]
+   Generated File[KNoT-Gateway Mini Starter Board.TXT]
+   Generated File[KNoT-Gateway Mini Starter Board.LDP]
+   Generated File[KNoT-Gateway Mini Starter Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:45:39 On 29/08/2017

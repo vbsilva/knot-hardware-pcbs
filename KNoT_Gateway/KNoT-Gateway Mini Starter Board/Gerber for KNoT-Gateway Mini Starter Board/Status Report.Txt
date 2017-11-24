@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [KNoT-Gateway Mini Starter Board.PrjPCB]
+   Generated File[KNoT-Gateway Mini Starter Board.GTL]
+   Generated File[KNoT-Gateway Mini Starter Board.GBL]
+   Generated File[KNoT-Gateway Mini Starter Board.GPB]
+   Generated File[KNoT-Gateway Mini Starter Board.GPT]
+   Generated File[KNoT-Gateway Mini Starter Board.GTO]
+   Generated File[KNoT-Gateway Mini Starter Board.GTP]
+   Generated File[KNoT-Gateway Mini Starter Board.GTS]
+   Generated File[KNoT-Gateway Mini Starter Board.GBS]
+   Generated File[KNoT-Gateway Mini Starter Board.GBP]
+   Generated File[KNoT-Gateway Mini Starter Board.GBO]
+   Generated File[KNoT-Gateway Mini Starter Board.GM1]
+   Generated File[KNoT-Gateway Mini Starter Board.RUL]
+   Generated File[KNoT-Gateway Mini Starter Board.EXTREP]
+   Generated File[KNoT-Gateway Mini Starter Board.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 20:44:23 On 29/08/2017
